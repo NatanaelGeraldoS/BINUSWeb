@@ -4,11 +4,13 @@ repo: BINUSWeb # The name of this repository
 
 sites:
   - name: Parent Desk BINUS SCHOOL Serpong
-    url: https://www.google.com
+    url: https://serpong.binus-school.net/student/LoginBinusian.aspx
   - name: Student Desk BINUS SCHOOL Serpong
-    url: https://en.wikipedia.org
+    url: https://serpong.binus-school.net/parent/LoginBinusian.aspx
   - name: Staff Desk BINUS SCHOOL Serpong
-    url: https://news.ycombinator.com
+    url: https://serpong.binus-school.net/staffdesk/LoginBinusian.aspx
+  - name: LRC BINUS SCHOOL Serpong
+    url: http://serpong.binus-school.net/Library/
   - name: Beelajar
     url: https://beelajar.apps.binus.edu/
 
