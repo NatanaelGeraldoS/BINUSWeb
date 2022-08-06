@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/serpong.binus-school.net",
     "slug": "parent-desk-binus-school-serpong",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 2203,
-    "timeDay": 1655,
-    "timeWeek": 1872,
-    "timeMonth": 2203,
-    "timeYear": 2203,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 2211,
+    "timeDay": 2404,
+    "timeWeek": 2008,
+    "timeMonth": 2211,
+    "timeYear": 2211,
     "dailyMinutesDown": {
       "2022-07-30": 24,
       "2022-07-27": 22
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 671,
-    "timeDay": 643,
-    "timeWeek": 643,
-    "timeMonth": 671,
-    "timeYear": 671,
+    "time": 852,
+    "timeDay": 4832,
+    "timeWeek": 1193,
+    "timeMonth": 852,
+    "timeYear": 852,
     "dailyMinutesDown": {
       "2022-07-30": 24
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 416,
-    "timeDay": 420,
-    "timeWeek": 452,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "time": 419,
+    "timeDay": 473,
+    "timeWeek": 463,
+    "timeMonth": 419,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2022-07-30": 23
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 1826,
-    "timeDay": 1385,
-    "timeWeek": 1591,
-    "timeMonth": 1826,
-    "timeYear": 1826,
+    "time": 1812,
+    "timeDay": 1543,
+    "timeWeek": 1574,
+    "timeMonth": 1812,
+    "timeYear": 1812,
     "dailyMinutesDown": {
       "2022-07-30": 23
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 955,
-    "timeDay": 953,
-    "timeWeek": 937,
-    "timeMonth": 955,
-    "timeYear": 955,
+    "time": 961,
+    "timeDay": 1067,
+    "timeWeek": 965,
+    "timeMonth": 961,
+    "timeYear": 961,
     "dailyMinutesDown": {}
   }
 ]
