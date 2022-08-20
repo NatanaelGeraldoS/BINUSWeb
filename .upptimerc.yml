@@ -3,9 +3,9 @@ owner: NatanaelGeraldoS # Your GitHub organization or username, where this repos
 repo: BINUSWeb # The name of this repository
 
 sites:
-  - name: Parent Desk BINUS SCHOOL Serpong
-    url: https://serpong.binus-school.net/student/LoginBinusian.aspx
   - name: Student Desk BINUS SCHOOL Serpong
+    url: https://serpong.binus-school.net/student/LoginBinusian.aspx
+  - name: Parent Desk BINUS SCHOOL Serpong
     url: https://serpong.binus-school.net/parent/LoginBinusian.aspx
   - name: Staff Desk BINUS SCHOOL Serpong
     url: https://serpong.binus-school.net/staffdesk/LoginBinusian.aspx
