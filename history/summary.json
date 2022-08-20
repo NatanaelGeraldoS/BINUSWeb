@@ -1,29 +1,7 @@
 [
   {
-    "name": "Parent Desk BINUS SCHOOL Serpong",
-    "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
-    "icon": "https://favicons.githubusercontent.com/serpong.binus-school.net",
-    "slug": "parent-desk-binus-school-serpong",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.86%",
-    "time": 2175,
-    "timeDay": 2043,
-    "timeWeek": 2252,
-    "timeMonth": 2360,
-    "timeYear": 2175,
-    "dailyMinutesDown": {
-      "2022-08-18": 17,
-      "2022-07-30": 24,
-      "2022-07-27": 22
-    }
-  },
-  {
     "name": "Student Desk BINUS SCHOOL Serpong",
-    "url": "https://serpong.binus-school.net/parent/LoginBinusian.aspx",
+    "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
     "icon": "https://favicons.githubusercontent.com/serpong.binus-school.net",
     "slug": "student-desk-binus-school-serpong",
     "status": "up",
@@ -32,13 +10,35 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 810,
-    "timeDay": 1088,
-    "timeWeek": 730,
-    "timeMonth": 880,
-    "timeYear": 810,
+    "time": 836,
+    "timeDay": 1435,
+    "timeWeek": 861,
+    "timeMonth": 907,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2022-07-30": 24
+    }
+  },
+  {
+    "name": "Parent Desk BINUS SCHOOL Serpong",
+    "url": "https://serpong.binus-school.net/parent/LoginBinusian.aspx",
+    "icon": "https://favicons.githubusercontent.com/serpong.binus-school.net",
+    "slug": "parent-desk-binus-school-serpong",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.87%",
+    "time": 2131,
+    "timeDay": 1225,
+    "timeWeek": 2047,
+    "timeMonth": 2306,
+    "timeYear": 2131,
+    "dailyMinutesDown": {
+      "2022-08-18": 17,
+      "2022-07-30": 24,
+      "2022-07-27": 22
     }
   },
   {
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 433,
-    "timeDay": 422,
-    "timeWeek": 448,
-    "timeMonth": 457,
-    "timeYear": 433,
+    "time": 432,
+    "timeDay": 408,
+    "timeWeek": 441,
+    "timeMonth": 455,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2022-07-30": 23
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 1806,
-    "timeDay": 2008,
-    "timeWeek": 1821,
-    "timeMonth": 1836,
-    "timeYear": 1806,
+    "time": 1808,
+    "timeDay": 1949,
+    "timeWeek": 1829,
+    "timeMonth": 1838,
+    "timeYear": 1808,
     "dailyMinutesDown": {
       "2022-07-30": 23
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 959,
-    "timeWeek": 1011,
-    "timeMonth": 998,
-    "timeYear": 985,
+    "time": 982,
+    "timeDay": 923,
+    "timeWeek": 995,
+    "timeMonth": 994,
+    "timeYear": 982,
     "dailyMinutesDown": {}
   }
 ]
