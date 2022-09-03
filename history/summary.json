@@ -87,7 +87,7 @@
     "url": "https://beelajar.apps.binus.edu/",
     "icon": "https://favicons.githubusercontent.com/beelajar.apps.binus.edu",
     "slug": "beelajar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -98,6 +98,8 @@
     "timeWeek": 952,
     "timeMonth": 998,
     "timeYear": 982,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-03": 0
+    }
   }
 ]
