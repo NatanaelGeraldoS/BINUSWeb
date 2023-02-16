@@ -99,8 +99,8 @@
     "slug": "lrc-binus-school-serpong",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.43%",
     "time": 2124,
@@ -109,7 +109,6 @@
     "timeMonth": 1686,
     "timeYear": 2124,
     "dailyMinutesDown": {
-      "2023-02-15": 2,
       "2023-01-25": 39,
       "2022-12-25": 414,
       "2022-12-24": 1440,
