@@ -13,6 +13,8 @@ sites:
     url: http://serpong.binus-school.net/Library/
   - name: Beelajar
     url: https://beelajar.apps.binus.edu/
+  - name: E-DESK
+    url: https://e-desk.binus.sch.id/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
