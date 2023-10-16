@@ -1,7 +1,7 @@
 url: https://e-desk.binus.sch.id/
-status: up
-code: 200
-responseTime: 1210
-lastUpdated: 2023-10-15T23:16:12.933Z
+status: down
+code: 503
+responseTime: 1312
+lastUpdated: 2023-10-16T11:43:46.381Z
 startTime: 2023-04-04T03:19:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
