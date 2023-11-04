@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
-    "time": 2222,
-    "timeDay": 1361,
-    "timeWeek": 2027,
-    "timeMonth": 3153,
-    "timeYear": 2351,
+    "time": 2220,
+    "timeDay": 1110,
+    "timeWeek": 1725,
+    "timeMonth": 2956,
+    "timeYear": 2349,
     "dailyMinutesDown": {
       "2023-10-01": 122,
       "2023-09-30": 79,
@@ -38,8 +38,7 @@
       "2022-12-11": 21,
       "2022-12-02": 18,
       "2022-11-10": 178,
-      "2022-11-05": 34,
-      "2022-11-04": 56
+      "2022-11-05": 34
     }
   },
   {
@@ -53,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
-    "time": 948,
-    "timeDay": 489,
-    "timeWeek": 692,
-    "timeMonth": 564,
-    "timeYear": 789,
+    "time": 947,
+    "timeDay": 402,
+    "timeWeek": 679,
+    "timeMonth": 561,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2023-10-01": 89,
       "2023-09-30": 50,
@@ -76,8 +75,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 394,
       "2022-12-02": 17,
-      "2022-11-05": 33,
-      "2022-11-04": 56
+      "2022-11-05": 33
     }
   },
   {
@@ -86,15 +84,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "staff-desk-binus-school-serpong",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 649,
-    "timeDay": 486,
-    "timeWeek": 445,
-    "timeMonth": 437,
+    "timeDay": 400,
+    "timeWeek": 432,
+    "timeMonth": 434,
     "timeYear": 681,
     "dailyMinutesDown": {
       "2023-09-27": 343,
@@ -113,8 +111,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 393,
       "2022-12-02": 17,
-      "2022-11-05": 33,
-      "2022-11-04": 55
+      "2022-11-05": 33
     }
   },
   {
@@ -128,11 +125,11 @@
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.69%",
-    "time": 2371,
-    "timeDay": 1373,
-    "timeWeek": 3505,
-    "timeMonth": 5259,
-    "timeYear": 2470,
+    "time": 2368,
+    "timeDay": 1229,
+    "timeWeek": 2299,
+    "timeMonth": 4775,
+    "timeYear": 2466,
     "dailyMinutesDown": {
       "2023-10-31": 69,
       "2023-10-30": 4,
@@ -165,8 +162,7 @@
       "2022-12-23": 393,
       "2022-12-21": 34,
       "2022-12-02": 16,
-      "2022-11-09": 27,
-      "2022-11-04": 84
+      "2022-11-09": 27
     }
   },
   {
@@ -181,9 +177,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1063,
-    "timeDay": 1232,
-    "timeWeek": 1185,
-    "timeMonth": 1116,
+    "timeDay": 985,
+    "timeWeek": 1161,
+    "timeMonth": 1112,
     "timeYear": 1079,
     "dailyMinutesDown": {}
   },
@@ -198,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1449,
-    "timeDay": 2945,
-    "timeWeek": 1561,
-    "timeMonth": 1750,
-    "timeYear": 1449,
+    "time": 1447,
+    "timeDay": 1160,
+    "timeWeek": 1528,
+    "timeMonth": 1744,
+    "timeYear": 1447,
     "dailyMinutesDown": {
       "2023-05-10": 55,
       "2023-04-22": 25,
