@@ -11,6 +11,8 @@ sites:
     url: https://serpong.binus-school.net/staffdesk/LoginBinusian.aspx
   - name: LRC BINUS SCHOOL Serpong
     url: http://serpong.binus-school.net/Library/
+  - name: CMS
+    url: http://cmsschool.binus.edu/
   - name: Beelajar
     url: https://beelajar.apps.binus.edu/
   - name: E-DESK
