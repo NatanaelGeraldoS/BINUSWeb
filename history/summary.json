@@ -13,7 +13,7 @@
     "time": 2365,
     "timeDay": 1370,
     "timeWeek": 1434,
-    "timeMonth": 1578,
+    "timeMonth": 1590,
     "timeYear": 2439,
     "dailyMinutesDown": {
       "2023-12-26": 128,
@@ -55,7 +55,7 @@
     "time": 774,
     "timeDay": 496,
     "timeWeek": 669,
-    "timeMonth": 501,
+    "timeMonth": 502,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2023-12-25": 513,
@@ -227,9 +227,9 @@
     "url": "https://e-desk.binus.sch.id/",
     "icon": "https://icons.duckduckgo.com/ip3/e-desk.binus.sch.id.ico",
     "slug": "e-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -239,6 +239,7 @@
     "timeMonth": 1328,
     "timeYear": 1420,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2023-05-10": 55,
       "2023-04-22": 25,
       "2023-04-17": 24,
