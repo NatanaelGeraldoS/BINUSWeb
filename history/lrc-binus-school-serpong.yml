@@ -1,7 +1,7 @@
 url: http://serpong.binus-school.net/Library/
-status: up
-code: 200
-responseTime: 1360
-lastUpdated: 2024-12-05T23:22:41.597Z
+status: down
+code: 500
+responseTime: 28984
+lastUpdated: 2024-12-06T17:25:31.425Z
 startTime: 2022-07-19T02:22:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
