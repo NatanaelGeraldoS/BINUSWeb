@@ -1,7 +1,7 @@
 url: https://serpong.binus-school.net/student/LoginBinusian.aspx
-status: up
-code: 200
-responseTime: 1345
-lastUpdated: 2025-01-31T23:18:41.322Z
+status: down
+code: 500
+responseTime: 3378
+lastUpdated: 2025-02-01T08:26:25.007Z
 startTime: 2022-07-18T10:42:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
