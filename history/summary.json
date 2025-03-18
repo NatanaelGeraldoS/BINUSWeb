@@ -6,17 +6,17 @@
     "slug": "student-desk-binus-school-serpong",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "70.28%",
-    "uptimeWeek": "72.22%",
-    "uptimeMonth": "91.29%",
+    "uptimeDay": "77.25%",
+    "uptimeWeek": "73.33%",
+    "uptimeMonth": "91.26%",
     "uptimeYear": "99.27%",
     "time": 3388,
     "timeDay": 11249,
-    "timeWeek": 8750,
+    "timeWeek": 8728,
     "timeMonth": 8085,
     "timeYear": 3693,
     "dailyMinutesDown": {
-      "2025-03-17": 423,
+      "2025-03-17": 409,
       "2025-03-16": 538,
       "2025-03-15": 162,
       "2025-03-14": 377,
@@ -27,7 +27,7 @@
       "2025-03-09": 189,
       "2025-03-08": 328,
       "2025-03-07": 156,
-      "2025-03-06": 34
+      "2025-03-06": 61
     }
   },
   {
@@ -38,12 +38,12 @@
     "status": "up",
     "uptime": "99.53%",
     "uptimeDay": "77.34%",
-    "uptimeWeek": "79.49%",
+    "uptimeWeek": "80.42%",
     "uptimeMonth": "93.31%",
     "uptimeYear": "99.19%",
     "time": 1627,
     "timeDay": 6000,
-    "timeWeek": 5337,
+    "timeWeek": 5246,
     "timeMonth": 4404,
     "timeYear": 1849,
     "dailyMinutesDown": {
@@ -82,9 +82,9 @@
     "slug": "staff-desk-binus-school-serpong",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "82.27%",
-    "uptimeWeek": "87.37%",
-    "uptimeMonth": "95.74%",
+    "uptimeDay": "83.12%",
+    "uptimeWeek": "87.50%",
+    "uptimeMonth": "95.77%",
     "uptimeYear": "99.40%",
     "time": 925,
     "timeDay": 3098,
@@ -92,7 +92,7 @@
     "timeMonth": 1519,
     "timeYear": 1021,
     "dailyMinutesDown": {
-      "2025-03-17": 254,
+      "2025-03-17": 242,
       "2025-03-16": 406,
       "2025-03-15": 67,
       "2025-03-14": 87,
@@ -175,9 +175,9 @@
     "slug": "cms",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "86.75%",
-    "uptimeWeek": "92.34%",
-    "uptimeMonth": "97.34%",
+    "uptimeDay": "87.51%",
+    "uptimeWeek": "92.45%",
+    "uptimeMonth": "97.36%",
     "uptimeYear": "99.57%",
     "time": 1914,
     "timeDay": 11628,
@@ -185,7 +185,7 @@
     "timeMonth": 6736,
     "timeYear": 2104,
     "dailyMinutesDown": {
-      "2025-03-17": 191,
+      "2025-03-17": 180,
       "2025-03-16": 230,
       "2025-03-15": 15,
       "2025-03-14": 162,
@@ -251,8 +251,7 @@
     "timeMonth": 1303,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2024-08-06": 25,
-      "2024-03-18": 43
+      "2024-08-06": 25
     }
   }
 ]
