@@ -4,19 +4,19 @@
     "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "student-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "78.77%",
-    "uptimeWeek": "96.97%",
+    "uptimeDay": "78.63%",
+    "uptimeWeek": "96.95%",
     "uptimeMonth": "94.29%",
-    "uptimeYear": "99.24%",
-    "time": 4215,
+    "uptimeYear": "99.25%",
+    "time": 4218,
     "timeDay": 12167,
     "timeWeek": 9159,
     "timeMonth": 8141,
     "timeYear": 4706,
     "dailyMinutesDown": {
-      "2025-04-23": 163,
+      "2025-04-23": 165,
       "2025-04-22": 142,
       "2025-04-11": 281,
       "2025-04-10": 172,
@@ -31,7 +31,7 @@
       "2025-03-17": 409,
       "2025-03-16": 538,
       "2025-03-15": 162,
-      "2025-03-14": 149
+      "2025-03-14": 101
     }
   },
   {
@@ -41,9 +41,9 @@
     "slug": "parent-desk-binus-school-serpong",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "77.18%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "95.81%",
+    "uptimeDay": "78.00%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "95.84%",
     "uptimeYear": "99.28%",
     "time": 2031,
     "timeDay": 3534,
@@ -51,7 +51,7 @@
     "timeMonth": 4097,
     "timeYear": 2353,
     "dailyMinutesDown": {
-      "2025-04-23": 162,
+      "2025-04-23": 150,
       "2025-04-22": 166,
       "2025-04-11": 79,
       "2025-04-10": 131,
@@ -69,7 +69,7 @@
       "2025-03-14": 386,
       "2025-03-13": 240,
       "2025-03-12": 174,
-      "2025-03-11": 154
+      "2025-03-11": 174
     }
   },
   {
@@ -189,9 +189,9 @@
     "url": "http://cmsschool.binus.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cmsschool.binus.edu.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "86.86%",
+    "uptimeDay": "86.83%",
     "uptimeWeek": "98.12%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "99.31%",
