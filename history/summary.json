@@ -4,18 +4,19 @@
     "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "student-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "90.12%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "89.86%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "99.26%",
-    "time": 4179,
+    "time": 4174,
     "timeDay": 13352,
     "timeWeek": 9068,
     "timeMonth": 8096,
     "timeYear": 4675,
     "dailyMinutesDown": {
+      "2025-04-23": 4,
       "2025-04-22": 142,
       "2025-04-11": 281,
       "2025-04-10": 172,
@@ -30,7 +31,7 @@
       "2025-03-17": 409,
       "2025-03-16": 538,
       "2025-03-15": 162,
-      "2025-03-14": 229
+      "2025-03-14": 209
     }
   },
   {
@@ -38,10 +39,10 @@
     "url": "https://serpong.binus-school.net/parent/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "parent-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "88.47%",
-    "uptimeWeek": "98.35%",
+    "uptimeDay": "88.32%",
+    "uptimeWeek": "98.33%",
     "uptimeMonth": "96.18%",
     "uptimeYear": "99.30%",
     "time": 2013,
@@ -50,6 +51,7 @@
     "timeMonth": 4149,
     "timeYear": 2351,
     "dailyMinutesDown": {
+      "2025-04-23": 2,
       "2025-04-22": 166,
       "2025-04-11": 79,
       "2025-04-10": 131,
@@ -67,7 +69,7 @@
       "2025-03-14": 386,
       "2025-03-13": 240,
       "2025-03-12": 174,
-      "2025-03-11": 239
+      "2025-03-11": 192
     }
   },
   {
@@ -186,9 +188,9 @@
     "url": "http://cmsschool.binus.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cmsschool.binus.edu.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "97.82%",
+    "uptimeDay": "97.80%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "99.34%",
@@ -198,6 +200,7 @@
     "timeMonth": 5566,
     "timeYear": 2913,
     "dailyMinutesDown": {
+      "2025-04-23": 0,
       "2025-04-22": 31,
       "2025-04-11": 82,
       "2025-04-10": 20,
