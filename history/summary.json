@@ -4,18 +4,19 @@
     "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "student-desk-binus-school-serpong",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "96.51%",
-    "uptimeWeek": "99.50%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.24%",
-    "time": 4241,
-    "timeDay": 4241,
+    "time": 4245,
+    "timeDay": 3524,
     "timeWeek": 3182,
     "timeMonth": 2730,
     "timeYear": 4703,
     "dailyMinutesDown": {
+      "2025-05-27": 1,
       "2025-05-26": 50,
       "2025-05-08": 70,
       "2025-05-07": 18,
@@ -34,7 +35,7 @@
       "2025-03-18": 230,
       "2025-03-17": 409,
       "2025-03-16": 538,
-      "2025-03-15": 107
+      "2025-03-15": 85
     }
   },
   {
@@ -42,18 +43,19 @@
     "url": "https://serpong.binus-school.net/parent/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "parent-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.27%",
-    "time": 2042,
+    "uptimeYear": "99.28%",
+    "time": 2044,
     "timeDay": 479,
     "timeWeek": 1645,
     "timeMonth": 976,
     "timeYear": 2366,
     "dailyMinutesDown": {
+      "2025-05-27": 1,
       "2025-04-29": 18,
       "2025-04-23": 216,
       "2025-04-22": 166,
@@ -73,7 +75,7 @@
       "2025-03-14": 386,
       "2025-03-13": 240,
       "2025-03-12": 174,
-      "2025-03-11": 128
+      "2025-03-11": 89
     }
   },
   {
@@ -237,12 +239,12 @@
     "status": "up",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.32%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "99.64%",
     "time": 744,
     "timeDay": 807,
-    "timeWeek": 724,
+    "timeWeek": 740,
     "timeMonth": 721,
     "timeYear": 728,
     "dailyMinutesDown": {
