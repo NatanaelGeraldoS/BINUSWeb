@@ -6,17 +6,16 @@
     "slug": "student-desk-binus-school-serpong",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.24%",
     "time": 4244,
-    "timeDay": 2356,
-    "timeWeek": 2982,
-    "timeMonth": 2694,
-    "timeYear": 4698,
+    "timeDay": 1252,
+    "timeWeek": 3014,
+    "timeMonth": 2698,
+    "timeYear": 4700,
     "dailyMinutesDown": {
-      "2025-05-27": 15,
       "2025-05-26": 50,
       "2025-05-08": 70,
       "2025-05-07": 18,
@@ -35,7 +34,7 @@
       "2025-03-18": 230,
       "2025-03-17": 409,
       "2025-03-16": 538,
-      "2025-03-15": 85
+      "2025-03-15": 107
     }
   },
   {
@@ -45,17 +44,16 @@
     "slug": "parent-desk-binus-school-serpong",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.27%",
     "time": 2044,
-    "timeDay": 427,
-    "timeWeek": 1487,
-    "timeMonth": 957,
+    "timeDay": 391,
+    "timeWeek": 1275,
+    "timeMonth": 958,
     "timeYear": 2363,
     "dailyMinutesDown": {
-      "2025-05-27": 14,
       "2025-04-29": 18,
       "2025-04-23": 216,
       "2025-04-22": 166,
@@ -75,7 +73,7 @@
       "2025-03-14": 386,
       "2025-03-13": 240,
       "2025-03-12": 174,
-      "2025-03-11": 89
+      "2025-03-11": 128
     }
   },
   {
@@ -90,10 +88,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.24%",
     "time": 1031,
-    "timeDay": 3647,
-    "timeWeek": 2661,
+    "timeDay": 205,
+    "timeWeek": 2209,
     "timeMonth": 1267,
-    "timeYear": 1170,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2025-04-29": 18,
       "2025-04-23": 87,
@@ -127,8 +125,7 @@
       "2024-06-16": 60,
       "2024-06-14": 371,
       "2024-06-13": 468,
-      "2024-06-05": 46,
-      "2024-05-28": 25
+      "2024-06-05": 46
     }
   },
   {
@@ -142,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.83%",
-    "time": 1727,
-    "timeDay": 1389,
-    "timeWeek": 1368,
-    "timeMonth": 1343,
-    "timeYear": 1813,
+    "time": 1729,
+    "timeDay": 1761,
+    "timeWeek": 1457,
+    "timeMonth": 1359,
+    "timeYear": 1803,
     "dailyMinutesDown": {
       "2025-04-29": 18,
       "2025-04-07": 161,
@@ -178,8 +175,7 @@
       "2024-06-16": 60,
       "2024-06-14": 371,
       "2024-06-13": 466,
-      "2024-06-05": 45,
-      "2024-05-28": 25
+      "2024-06-05": 45
     }
   },
   {
@@ -194,10 +190,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.31%",
     "time": 2503,
-    "timeDay": 514,
-    "timeWeek": 1259,
-    "timeMonth": 802,
-    "timeYear": 2982,
+    "timeDay": 679,
+    "timeWeek": 1296,
+    "timeMonth": 809,
+    "timeYear": 2987,
     "dailyMinutesDown": {
       "2025-04-29": 18,
       "2025-04-23": 193,
@@ -227,8 +223,7 @@
       "2024-06-16": 58,
       "2024-06-14": 370,
       "2024-06-13": 466,
-      "2024-06-05": 28,
-      "2024-05-28": 24
+      "2024-06-05": 28
     }
   },
   {
@@ -242,10 +237,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "99.64%",
-    "time": 744,
-    "timeDay": 807,
-    "timeWeek": 740,
-    "timeMonth": 721,
+    "time": 743,
+    "timeDay": 695,
+    "timeWeek": 748,
+    "timeMonth": 722,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2025-05-20": 257,
@@ -259,8 +254,7 @@
       "2024-06-16": 58,
       "2024-06-14": 370,
       "2024-06-13": 464,
-      "2024-06-05": 27,
-      "2024-05-28": 24
+      "2024-06-05": 27
     }
   },
   {
@@ -274,11 +268,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1350,
-    "timeDay": 1489,
-    "timeWeek": 1254,
-    "timeMonth": 1308,
-    "timeYear": 1352,
+    "time": 1355,
+    "timeDay": 4199,
+    "timeWeek": 1707,
+    "timeMonth": 1390,
+    "timeYear": 1361,
     "dailyMinutesDown": {
       "2024-08-06": 25
     }
