@@ -259,19 +259,19 @@
     "url": "https://e-desk.binus.sch.id/",
     "icon": "https://icons.duckduckgo.com/ip3/e-desk.binus.sch.id.ico",
     "slug": "e-desk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 1355,
-    "timeDay": 1129,
-    "timeWeek": 1216,
-    "timeMonth": 1386,
+    "timeDay": 1163,
+    "timeWeek": 1217,
+    "timeMonth": 1381,
     "timeYear": 1363,
     "dailyMinutesDown": {
-      "2025-06-11": 0,
+      "2025-06-11": 21,
       "2024-08-06": 25
     }
   }
