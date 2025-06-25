@@ -6,9 +6,9 @@
     "slug": "student-desk-binus-school-serpong",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.24%",
     "time": 4245,
     "timeDay": 2421,
@@ -16,7 +16,6 @@
     "timeMonth": 2013,
     "timeYear": 4745,
     "dailyMinutesDown": {
-      "2025-06-24": 12,
       "2025-06-22": 17,
       "2025-05-26": 50,
       "2025-05-08": 70,
@@ -36,7 +35,7 @@
       "2025-03-18": 230,
       "2025-03-17": 409,
       "2025-03-16": 538,
-      "2025-03-15": 51
+      "2025-03-15": 85
     }
   },
   {
