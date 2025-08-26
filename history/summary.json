@@ -4,18 +4,19 @@
     "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "student-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "99.27%",
-    "time": 4296,
-    "timeDay": 2678,
-    "timeWeek": 1941,
-    "timeMonth": 1839,
-    "timeYear": 4751,
+    "uptimeYear": "99.28%",
+    "time": 4299,
+    "timeDay": 3036,
+    "timeWeek": 2103,
+    "timeMonth": 1880,
+    "timeYear": 4749,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-08-15": 42,
       "2025-08-09": 25,
       "2025-08-07": 22,
@@ -42,7 +43,7 @@
       "2025-04-03": 130,
       "2025-03-18": 230,
       "2025-03-17": 409,
-      "2025-03-16": 143
+      "2025-03-16": 119
     }
   },
   {
