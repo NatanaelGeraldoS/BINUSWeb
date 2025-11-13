@@ -4,18 +4,19 @@
     "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "student-desk-binus-school-serpong",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.01%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "99.36%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.99%",
     "time": 4147,
     "timeDay": 2585,
     "timeWeek": 1914,
     "timeMonth": 2004,
     "timeYear": 4755,
     "dailyMinutesDown": {
+      "2025-11-13": 1,
       "2025-11-12": 24,
       "2025-11-11": 77,
       "2025-10-31": 67,
@@ -63,7 +64,7 @@
       "2025-04-07": 219,
       "2025-04-06": 300,
       "2025-04-05": 322,
-      "2025-04-04": 127
+      "2025-04-04": 95
     }
   },
   {
@@ -71,18 +72,19 @@
     "url": "https://serpong.binus-school.net/parent/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "parent-desk-binus-school-serpong",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "98.37%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "98.35%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.37%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.94%",
     "time": 1976,
     "timeDay": 1228,
     "timeWeek": 767,
     "timeMonth": 752,
     "timeYear": 2318,
     "dailyMinutesDown": {
+      "2025-11-13": 0,
       "2025-11-12": 23,
       "2025-11-11": 75,
       "2025-10-31": 67,
@@ -122,7 +124,7 @@
       "2025-04-03": 52,
       "2025-03-18": 175,
       "2025-03-17": 326,
-      "2025-03-16": 195
+      "2025-03-16": 84
     }
   },
   {
