@@ -4,18 +4,19 @@
     "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "student-desk-binus-school-serpong",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "92.79%",
-    "uptimeYear": "98.45%",
-    "time": 4246,
-    "timeDay": 2486,
-    "timeWeek": 3449,
-    "timeMonth": 2810,
+    "uptimeYear": "98.47%",
+    "time": 4245,
+    "timeDay": 3645,
+    "timeWeek": 3572,
+    "timeMonth": 2886,
     "timeYear": 4768,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-12-23": 27,
       "2025-12-17": 576,
       "2025-12-16": 1440,
@@ -73,7 +74,7 @@
       "2025-04-09": 337,
       "2025-04-08": 67,
       "2025-04-07": 219,
-      "2025-04-06": 300
+      "2025-04-06": 215
     }
   },
   {
@@ -90,7 +91,7 @@
     "time": 1994,
     "timeDay": 473,
     "timeWeek": 1004,
-    "timeMonth": 948,
+    "timeMonth": 940,
     "timeYear": 2296,
     "dailyMinutesDown": {
       "2025-12-23": 27,
@@ -159,7 +160,7 @@
     "time": 1137,
     "timeDay": 233,
     "timeWeek": 1843,
-    "timeMonth": 1652,
+    "timeMonth": 1689,
     "timeYear": 1282,
     "dailyMinutesDown": {
       "2025-12-23": 26,
@@ -233,7 +234,7 @@
     "time": 1977,
     "timeDay": 2759,
     "timeWeek": 2862,
-    "timeMonth": 2357,
+    "timeMonth": 2364,
     "timeYear": 2056,
     "dailyMinutesDown": {
       "2025-12-23": 26,
@@ -297,7 +298,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsschool.binus.edu.ico",
     "slug": "cms",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.62%",
@@ -305,7 +306,7 @@
     "time": 2435,
     "timeDay": 728,
     "timeWeek": 990,
-    "timeMonth": 926,
+    "timeMonth": 931,
     "timeYear": 2899,
     "dailyMinutesDown": {
       "2025-12-23": 25,
@@ -372,7 +373,7 @@
     "time": 969,
     "timeDay": 1727,
     "timeWeek": 1859,
-    "timeMonth": 1775,
+    "timeMonth": 1772,
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2025-12-23": 25,
