@@ -4,18 +4,19 @@
     "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "student-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.37%",
-    "uptimeYear": "98.38%",
-    "time": 4518,
-    "timeDay": 2457,
-    "timeWeek": 2880,
-    "timeMonth": 2934,
-    "timeYear": 4082,
+    "uptimeYear": "98.39%",
+    "time": 4510,
+    "timeDay": 3038,
+    "timeWeek": 2962,
+    "timeMonth": 2952,
+    "timeYear": 4037,
     "dailyMinutesDown": {
+      "2026-03-15": 0,
       "2026-03-08": 25,
       "2026-03-06": 40,
       "2026-03-05": 47,
@@ -93,7 +94,7 @@
       "2025-04-23": 230,
       "2025-04-22": 142,
       "2025-04-11": 281,
-      "2025-04-10": 96
+      "2025-04-10": 68
     }
   },
   {
@@ -111,7 +112,7 @@
     "timeDay": 445,
     "timeWeek": 826,
     "timeMonth": 764,
-    "timeYear": 1741,
+    "timeYear": 1696,
     "dailyMinutesDown": {
       "2026-03-08": 25,
       "2026-03-03": 36,
@@ -193,7 +194,7 @@
     "timeDay": 225,
     "timeWeek": 1726,
     "timeMonth": 1297,
-    "timeYear": 1366,
+    "timeYear": 1356,
     "dailyMinutesDown": {
       "2026-03-08": 25,
       "2026-03-03": 36,
@@ -364,7 +365,7 @@
     "timeDay": 709,
     "timeWeek": 797,
     "timeMonth": 811,
-    "timeYear": 2400,
+    "timeYear": 2347,
     "dailyMinutesDown": {
       "2026-03-08": 24,
       "2026-03-03": 35,
