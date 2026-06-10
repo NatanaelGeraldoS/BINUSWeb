@@ -4,12 +4,12 @@
     "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "student-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "98.32%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "98.31%",
     "time": 3375,
     "timeDay": 3109,
     "timeWeek": 2591,
@@ -99,7 +99,8 @@
       "2026-04-22": 8,
       "2026-04-24": 167,
       "2026-04-30": 155,
-      "2026-06-08": 185
+      "2026-06-08": 185,
+      "2026-06-10": 24
     }
   },
   {
@@ -107,13 +108,13 @@
     "url": "https://serpong.binus-school.net/parent/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "parent-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "98.54%",
-    "time": 1276,
+    "time": 1272,
     "timeDay": 2332,
     "timeWeek": 2145,
     "timeMonth": 2287,
@@ -178,7 +179,8 @@
       "2026-04-23": 169,
       "2026-04-22": 7,
       "2026-04-30": 76,
-      "2026-06-08": 180
+      "2026-06-08": 180,
+      "2026-06-10": 20
     }
   },
   {
@@ -186,11 +188,11 @@
     "url": "https://serpong.binus-school.net/staffdesk/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "staff-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "98.45%",
     "time": 1341,
     "timeDay": 569,
@@ -259,7 +261,8 @@
       "2026-04-22": 7,
       "2026-04-24": 165,
       "2026-04-30": 75,
-      "2026-06-08": 175
+      "2026-06-08": 175,
+      "2026-06-10": 15
     }
   },
   {
@@ -267,17 +270,17 @@
     "url": "http://serpong.binus-school.net/Library/",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "lrc-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "98.09%",
-    "time": 2257,
+    "time": 2259,
     "timeDay": 1640,
     "timeWeek": 1824,
     "timeMonth": 1970,
-    "timeYear": 2302,
+    "timeYear": 2300,
     "dailyMinutesDown": {
       "2025-06-13": 473,
       "2025-06-12": 1202,
@@ -341,7 +344,8 @@
       "2026-04-22": 6,
       "2026-04-24": 164,
       "2026-04-30": 75,
-      "2026-06-08": 170
+      "2026-06-08": 170,
+      "2026-06-10": 10
     }
   },
   {
@@ -349,11 +353,11 @@
     "url": "http://cmsschool.binus.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cmsschool.binus.edu.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.10%",
     "time": 1486,
     "timeDay": 1145,
@@ -413,7 +417,8 @@
       "2026-04-22": 6,
       "2026-04-24": 77,
       "2026-04-30": 74,
-      "2026-06-08": 166
+      "2026-06-08": 166,
+      "2026-06-10": 5
     }
   },
   {
@@ -421,13 +426,13 @@
     "url": "https://beelajar.apps.binus.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/beelajar.apps.binus.edu.ico",
     "slug": "beelajar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.41%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.40%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "98.80%",
-    "time": 1290,
+    "time": 1291,
     "timeDay": 1592,
     "timeWeek": 1697,
     "timeMonth": 1748,
@@ -491,7 +496,8 @@
       "2026-04-23": 169,
       "2026-04-22": 5,
       "2026-04-30": 74,
-      "2026-06-08": 161
+      "2026-06-08": 161,
+      "2026-06-10": 0
     }
   },
   {
