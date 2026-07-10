@@ -189,10 +189,10 @@
     "url": "https://serpong.binus-school.net/staffdesk/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "staff-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.42%",
     "time": 1343,
@@ -265,7 +265,8 @@
       "2026-06-08": 175,
       "2026-06-10": 88,
       "2026-06-23": 14,
-      "2026-06-22": 38
+      "2026-06-22": 38,
+      "2026-07-10": 1
     }
   },
   {
