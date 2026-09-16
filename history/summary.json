@@ -4,13 +4,13 @@
     "url": "https://serpong.binus-school.net/student/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "student-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "98.50%",
-    "time": 2940,
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "98.49%",
+    "time": 2936,
     "timeDay": 2981,
     "timeWeek": 3146,
     "timeMonth": 3225,
@@ -92,7 +92,8 @@
       "2026-08-13": 130,
       "2026-08-21": 42,
       "2026-08-28": 607,
-      "2026-09-03": 142
+      "2026-09-03": 142,
+      "2026-09-16": 25
     }
   },
   {
@@ -100,13 +101,13 @@
     "url": "https://serpong.binus-school.net/parent/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "parent-desk-binus-school-serpong",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.31%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "98.65%",
-    "time": 1301,
+    "time": 1302,
     "timeDay": 2349,
     "timeWeek": 2907,
     "timeMonth": 2562,
@@ -172,7 +173,8 @@
       "2026-08-08": 29,
       "2026-08-13": 125,
       "2026-08-28": 603,
-      "2026-09-03": 137
+      "2026-09-03": 137,
+      "2026-09-16": 20
     }
   },
   {
@@ -180,13 +182,13 @@
     "url": "https://serpong.binus-school.net/staffdesk/LoginBinusian.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "staff-desk-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.33%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "98.72%",
-    "time": 1477,
+    "time": 1474,
     "timeDay": 549,
     "timeWeek": 1405,
     "timeMonth": 1707,
@@ -253,7 +255,8 @@
       "2026-08-08": 25,
       "2026-08-13": 120,
       "2026-08-28": 598,
-      "2026-09-03": 132
+      "2026-09-03": 132,
+      "2026-09-16": 15
     }
   },
   {
@@ -261,13 +264,13 @@
     "url": "http://serpong.binus-school.net/Library/",
     "icon": "https://icons.duckduckgo.com/ip3/serpong.binus-school.net.ico",
     "slug": "lrc-binus-school-serpong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.69%",
-    "time": 2243,
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.68%",
+    "time": 2244,
     "timeDay": 1432,
     "timeWeek": 2380,
     "timeMonth": 2006,
@@ -333,7 +336,8 @@
       "2026-08-08": 20,
       "2026-08-13": 116,
       "2026-08-28": 593,
-      "2026-09-03": 128
+      "2026-09-03": 128,
+      "2026-09-16": 10
     }
   },
   {
@@ -341,13 +345,13 @@
     "url": "http://cmsschool.binus.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cmsschool.binus.edu.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.38%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.25%",
-    "time": 1133,
+    "time": 1134,
     "timeDay": 1775,
     "timeWeek": 2042,
     "timeMonth": 1994,
@@ -406,7 +410,8 @@
       "2026-08-07": 34,
       "2026-08-13": 111,
       "2026-08-28": 588,
-      "2026-09-03": 123
+      "2026-09-03": 123,
+      "2026-09-16": 5
     }
   },
   {
@@ -414,13 +419,13 @@
     "url": "https://beelajar.apps.binus.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/beelajar.apps.binus.edu.ico",
     "slug": "beelajar",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "99.39%",
-    "time": 1463,
+    "time": 1464,
     "timeDay": 1660,
     "timeWeek": 1711,
     "timeMonth": 1735,
@@ -478,7 +483,8 @@
       "2026-07-27": 39,
       "2026-08-13": 106,
       "2026-08-28": 583,
-      "2026-09-03": 118
+      "2026-09-03": 118,
+      "2026-09-16": 0
     }
   },
   {
